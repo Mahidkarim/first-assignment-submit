@@ -260,6 +260,7 @@ footer {
     border-radius: 20px;
 }
 
+.hover-effect:hover{background-color: brown;}
 /* shared color  */
 .shared-color {
     color: #4E47FF;
