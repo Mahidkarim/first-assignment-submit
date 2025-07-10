@@ -1,3 +1,12 @@
+.raleway-front {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
+
 .logo {
     font-size: 34px;
 }
@@ -125,6 +134,7 @@ div ul li {
 .productive-users-section {
     max-width: 1140px;
     margin: 0px auto;
+    margin: 0px 159px 0px 141px;
 }
 
 .joined {
@@ -196,7 +206,9 @@ div ul li {
 
 .footer-logo {
     font-size: 100px;
+
     color: #4E47FF;
+
 }
 
 .paragraph {
@@ -217,10 +229,36 @@ footer div a {
 
 footer {
     text-align: center;
+    margin-bottom: 100px;
+}
+
+.reviewer-name-img {
+    display: flex;
+}
+
+
+.heading-feed {
+    text-align: center;
 }
 
 
 
+.feedback-section {
+
+    display: flex;
+    gap: 20px;
+}
+
+.feedback-container {
+    margin: 0px 159px 0px 141px;
+}
+
+.review-container {
+    padding: 25px;
+    width: 366px;
+    background-color: azure;
+    border-radius: 20px;
+}
 
 /* shared color  */
 .shared-color {
