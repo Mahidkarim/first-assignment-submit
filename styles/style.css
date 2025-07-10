@@ -71,16 +71,61 @@
     height: 328px;
 }
 
-.action-section{display: flex;
-justify-content: space-between;
-align-items:center;
-margin-left: 141px ;
-margin-right: 159px;
-margin-top: 116px;
+.action-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 141px;
+    margin-right: 159px;
+    margin-top: 116px;
 }
 
-.action-head-para{width: 517px;height: 203px;}
-.webflow{ width: 403px; height: 328px;}
+.action-head-para {
+    width: 517px;
+    height: 203px;
+}
+
+.webflow {
+    width: 403px;
+    height: 328px;
+}
+
+.joined {
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.user-activities-heading {
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+div ul li {
+    list-style: none;
+}
+
+.user-activities-para {
+    font-size: 20px;
+}
+
+.productive-users-section{margin: auto;
+background-color: azure;
+border-radius: 24px;}
+
+.user-activities { display: flex;
+justify-content: space-around;
+
+}
+
+.productive-users-section{max-width: 1140px;
+margin: 0px auto;
+}
+
+.joined {text-align: center;
+padding: 50px 142px 0px 142px;}
+
 
 /* shared color  */
 .shared-color {
