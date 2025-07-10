@@ -37,8 +37,50 @@
     width: 174px;
     color: #FFFFFF;
 }
-.heading-focused-button{ text-align: center;margin: auto; }
 
+.heading-focused-button {
+    text-align: center;
+    margin: auto;
+}
+
+.heading-section {
+    background-image: url("../B12A01-landing-launchpad/Assets/Hero-bg.png");
+    max-width: 1440px;
+}
+
+.action-heading {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.action-para {
+    font-size: 24px;
+    color: #000000;
+}
+
+.preview-button {
+    color: #FFFFFF;
+    width: 229px;
+    height: 48px;
+}
+
+.webflow {
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
+
+.action-section{display: flex;
+justify-content: space-between;
+align-items:center;
+margin-left: 141px ;
+margin-right: 159px;
+margin-top: 116px;
+}
+
+.action-head-para{width: 517px;height: 203px;}
+.webflow{ width: 403px; height: 328px;}
 
 /* shared color  */
 .shared-color {
