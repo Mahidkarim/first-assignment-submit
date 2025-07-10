@@ -110,22 +110,89 @@ div ul li {
     font-size: 20px;
 }
 
-.productive-users-section{margin: auto;
-background-color: azure;
-border-radius: 24px;}
+.productive-users-section {
+    margin: auto;
+    background-color: azure;
+    border-radius: 24px;
+}
 
-.user-activities { display: flex;
-justify-content: space-around;
+.user-activities {
+    display: flex;
+    justify-content: space-around;
 
 }
 
-.productive-users-section{max-width: 1140px;
-margin: 0px auto;
+.productive-users-section {
+    max-width: 1140px;
+    margin: 0px auto;
 }
 
-.joined {text-align: center;
-padding: 50px 142px 0px 142px;}
+.joined {
+    text-align: center;
+    padding: 50px 142px 0px 142px;
+}
 
+.touch-head {
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.touch-head {
+    width: 528px;
+    height: 232px;
+}
+
+.touch-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 150px 0px;
+    align-items: center;
+}
+
+.form {
+    width: 497px;
+    height: 490px;
+
+}
+
+
+.input-touch {
+    width: 497px;
+    height: 70px;
+
+    border-radius: 10px;
+    border: none;
+    background-color: antiquewhite;
+    margin-bottom: 15px;
+    padding: 5px 0px 5px 20px;
+}
+
+.label-heading {
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+
+}
+
+.textarea {
+    width: 497px;
+    height: 135px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    border: none;
+    margin-bottom: 15px;
+    padding: 5px 0px 5px 20px;
+}
+
+.touch-button {
+    width: 520px;
+    height: 62px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+
+}
 
 /* shared color  */
 .shared-color {
