@@ -11,6 +11,7 @@
     font-size: 34px;
 }
 
+
 .sign-up-button {
     font-size: 16px;
     font-weight: bold;
@@ -27,6 +28,8 @@
     margin-left: 150px;
     margin-right: 150px;
 }
+
+.main-class {}
 
 .first-heading {
     font-size: 65px;
@@ -72,6 +75,7 @@
     color: #FFFFFF;
     width: 229px;
     height: 48px;
+    font-weight: bolder;
 }
 
 .webflow {
@@ -133,13 +137,15 @@ div ul li {
 
 .productive-users-section {
     max-width: 1140px;
-    margin: 0px auto;
-    margin: 0px 159px 0px 141px;
+
+    margin: 20px 138px 0px 142px;
+
 }
 
 .joined {
     text-align: center;
     padding: 50px 142px 0px 142px;
+
 }
 
 .touch-head {
@@ -239,9 +245,15 @@ footer {
 
 .heading-feed {
     text-align: center;
+    margin-top: 80px;
 }
 
-
+.reviewer-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: contain;
+}
 
 .feedback-section {
 
@@ -260,7 +272,10 @@ footer {
     border-radius: 20px;
 }
 
-.hover-effect:hover{background-color: brown;}
+.hover-effect:hover {
+    background-color: brown;
+}
+
 /* shared color  */
 .shared-color {
     color: #4E47FF;
